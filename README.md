@@ -2,51 +2,34 @@
 <h3 align="center">Full Stack Developer | Django • React • AWS • CI/CD</h3>
 
 <p align="center">
-I build scalable web applications and handle complete product lifecycles — from development to deployment 🚀
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Django+%7C+React+%7C+AWS;Building+Scalable+SaaS+Applications;Deployment+%7C+CI%2FCD+%7C+Cloud" />
 </p>
 
 ---
 
 ## 🚀 About Me
 
-I’m a Full Stack Developer with strong experience in building and deploying real-world web applications.  
-I specialize in creating scalable backend systems, clean frontend interfaces, and managing production environments.
+I’m a Full Stack Developer focused on building scalable web applications and handling complete product lifecycles — from development to deployment.
 
-I’ve worked on SaaS-based projects where I handled end-to-end development, including system design, API development, deployment, and performance optimization.
+I have hands-on experience working on real-world and SaaS-based projects, where I design systems, build APIs, and manage production deployments. I focus on writing clean, maintainable code and building reliable, high-performance applications.
 
 ---
 
 ## 🛠️ Tech Stack
 
-### 💡 Development
-- Python, Django, Django REST Framework  
-- JavaScript, React, Redux  
-- HTML, CSS, Bootstrap  
-- PostgreSQL  
-
-### ☁️ Cloud & Deployment
-- AWS (EC2, S3)  
-- CI/CD Pipelines  
-- Nginx, Gunicorn, Daphne  
-- Linux Server Management  
-- Domain & SSL Configuration  
-
-### ⚡ Core Concepts
-- REST API Development  
-- SaaS Application Architecture  
-- Authentication & Authorization  
-- Real-time Features (WebSockets)  
-- Performance Optimization & Caching  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,django,react,redux,postgres,aws,nginx,docker,git,linux" />
+</p>
 
 ---
 
 ## 💼 What I Do
 
-- Build full-stack applications with clean architecture  
-- Design and develop scalable REST APIs  
-- Deploy and manage production-ready applications  
-- Optimize database queries and application performance  
-- Handle complete development lifecycle (Build → Deploy → Maintain)  
+- Build full-stack web applications with scalable architecture  
+- Develop secure and efficient REST APIs  
+- Deploy and manage production applications on cloud  
+- Optimize performance and database queries  
+- Handle end-to-end lifecycle (Development → Deployment → Maintenance)  
 
 ---
 
@@ -66,9 +49,15 @@ I’ve worked on SaaS-based projects where I handled end-to-end development, inc
 ## ⚡ GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=&show_icons=true&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&hide_border=true" />
+</p>
+
+---
+
+<p align="center">
+  ⚡ Focused on building scalable systems and improving real-world applications
 </p>
