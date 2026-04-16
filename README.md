@@ -5,10 +5,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?size=24&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Django+%7C+React+%7C+AWS;Building+Scalable+SaaS+Applications;Deployment+%7C+CI%2FCD+%7C+Cloud" />
 </p>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="250"/>
-</p>
-
 ---
 
 ## 🚀 About Me
@@ -23,47 +19,9 @@
 
 ## 🛠️ Tech Stack
 
-<div align="center">
-
-<table>
-<tr>
-<td align="center" width="100">
-<img src="https://skillicons.dev/icons?i=python" width="50"/><br>Python
-</td>
-<td align="center" width="100">
-<img src="https://skillicons.dev/icons?i=django" width="50"/><br>Django
-</td>
-<td align="center" width="100">
-<img src="https://skillicons.dev/icons?i=js" width="50"/><br>JavaScript
-</td>
-<td align="center" width="100">
-<img src="https://skillicons.dev/icons?i=react" width="50"/><br>React
-</td>
-<td align="center" width="100">
-<img src="https://skillicons.dev/icons?i=redux" width="50"/><br>Redux
-</td>
-</tr>
-
-<tr>
-<td align="center">
-<img src="https://skillicons.dev/icons?i=postgres" width="50"/><br>PostgreSQL
-</td>
-<td align="center">
-<img src="https://skillicons.dev/icons?i=aws" width="50"/><br>AWS
-</td>
-<td align="center">
-<img src="https://skillicons.dev/icons?i=nginx" width="50"/><br>Nginx
-</td>
-<td align="center">
-<img src="https://skillicons.dev/icons?i=docker" width="50"/><br>Docker
-</td>
-<td align="center">
-<img src="https://skillicons.dev/icons?i=linux" width="50"/><br>Linux
-</td>
-</tr>
-</table>
-
-</div>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,django,react,redux,postgres,aws,nginx,docker,linux,git" />
+</p>
 
 ---
 
